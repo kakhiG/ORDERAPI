@@ -24,7 +24,7 @@ namespace OrderApi
                     webBuilder.UseStartup<Startup>();
                 })
                 .UseDefaultServiceProvider(options =>
-                    options.ValidateScopes = false); // needed for mediatr DI
+                    options.ValidateScopes = false); 
         }
     }
 }
