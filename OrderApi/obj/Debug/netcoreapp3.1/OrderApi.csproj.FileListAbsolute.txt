@@ -1,0 +1,240 @@
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.exe
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.deps.json
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.json
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.dev.json
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.pdb
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csprojAssemblyReference.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfo.cs
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CopyComplete
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.Manifest.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.xml
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.genruntimeconfig.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.exe
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.deps.json
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.json
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.dev.json
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csprojAssemblyReference.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfo.cs
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CopyComplete
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.Manifest.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.xml
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.genruntimeconfig.cache
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.exe
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.deps.json
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.json
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.dev.json
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.pdb
+C:\Users\kk\source\repos\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csprojAssemblyReference.cache
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfo.cs
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CopyComplete
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.Manifest.cache
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.xml
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\source\repos\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.genruntimeconfig.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.exe
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.deps.json
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.json
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.runtimeconfig.dev.json
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Service.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csprojAssemblyReference.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfoInputs.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.AssemblyInfo.cs
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CoreCompileInputs.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.RazorTargetAssemblyInfo.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.csproj.CopyComplete
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.Manifest.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\staticwebassets\OrderApi.StaticWebAssets.xml
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.xml
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi\obj\Debug\netcoreapp3.1\OrderApi.genruntimeconfig.cache

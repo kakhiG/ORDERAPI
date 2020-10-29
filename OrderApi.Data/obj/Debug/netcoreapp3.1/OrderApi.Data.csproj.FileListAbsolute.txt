@@ -1,0 +1,36 @@
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.deps.json
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csprojAssemblyReference.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.AssemblyInfoInputs.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.AssemblyInfo.cs
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csproj.CopyComplete
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\OneDrive\Downloads\MicroserviceDemo-master\MicroserviceDemo-master\OrderApi\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csprojAssemblyReference.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.AssemblyInfoInputs.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.AssemblyInfo.cs
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.deps.json
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\kk\Desktop\OrderApi - Copy\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csproj.CopyComplete
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csprojAssemblyReference.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.AssemblyInfoInputs.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.AssemblyInfo.cs
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.deps.json
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Data.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.dll
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\bin\Debug\netcoreapp3.1\OrderApi.Domain.pdb
+C:\Users\kk\Desktop\OrderAPI\OrderApi.Data\obj\Debug\netcoreapp3.1\OrderApi.Data.csproj.CopyComplete
